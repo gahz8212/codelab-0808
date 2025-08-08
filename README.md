@@ -8,3 +8,4 @@
 - git remote add origin https://github.com/gahz8212/codelab-0808.git
 
 바뀐내용
+뭔가를 저장
